@@ -1,0 +1,1 @@
+In this project I was able to reinforce basic html concepts by building a website that included text, images, relative links, and lists (organized and unorganized). 
