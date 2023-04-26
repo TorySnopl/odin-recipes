@@ -1,8 +1,27 @@
 h1 {
     color:forestgreen;
     background-color: yellow;
+    text-align: center;
+    font-size: 60px;
 }
 img {
-    height: 225px;
-    width: 225px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+p {
+    text-align: center;
+}
+.pork {
+    color: forestgreen;
+    background-color: yellow;
+}
+.sausage {
+    color: yellow;
+    background-color: forestgreen;
+}
+.cookie {
+    color: forestgreen;
+    background-color: yellow;
 }
