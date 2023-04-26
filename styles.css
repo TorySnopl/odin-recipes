@@ -13,15 +13,11 @@ img {
 p {
     text-align: center;
 }
-.pork {
+.pork, .cookie {
     color: forestgreen;
     background-color: yellow;
 }
 .sausage {
     color: yellow;
     background-color: forestgreen;
-}
-.cookie {
-    color: forestgreen;
-    background-color: yellow;
 }
