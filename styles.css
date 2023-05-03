@@ -10,6 +10,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 25%;
+  
 }
 
 .pork, .cookie {
@@ -23,8 +24,6 @@ img {
 
 .flex {
     display: flex;
+    justify-content: space-evenly;
 }
 
-.flex > div {
-    flex: 1;
-}
